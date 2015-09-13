@@ -486,8 +486,8 @@ OGC_SERVER = {
         # the proxy won't work and the integration tests will fail
         # the entire block has to be overridden in the local_settings
         'PUBLIC_LOCATION': 'http://localhost:8080/geoserver/',
-        'USER': 'admin',
-        'PASSWORD': 'geoserver',
+        'USER': 'administrador',
+        'PASSWORD': 'corderaputo',
         'MAPFISH_PRINT_ENABLED': True,
         'PRINT_NG_ENABLED': True,
         'GEONODE_SECURITY_ENABLED': True,
